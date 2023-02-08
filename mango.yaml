@@ -1,0 +1,7 @@
+train: C:\Users\Zac\Desktop\Coding\mangoDetection\train
+val: C:\Users\Zac\Desktop\Coding\mangoDetection\valid
+
+nc: 5
+
+# Classes
+names: ["乳汁吸附", "機械傷害", "炭疽病", "著色不佳", "黑斑病"]
